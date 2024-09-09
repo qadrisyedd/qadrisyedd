@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Syed Qadri, a passionate student programmer with a passionate interest in computer science and software development. I enjoy coding and continually strive to expand my knowledge.
+Hi, I'm Syed Qadri, a passionate student programmer with a strong interest in computer science and software development. I enjoy coding and continually strive to expand my knowledge.
 
 ## Skills and Experience
 
